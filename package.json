@@ -1,0 +1,22 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Get request headers and display them",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseharold/request-headers-for-fcc-backend.git"
+  },
+  "author": "jesseharold@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseharold/request-headers-for-fcc-backend/issues"
+  },
+  "homepage": "https://github.com/jesseharold/request-headers-for-fcc-backend#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
